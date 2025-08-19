@@ -75,37 +75,6 @@ cd coffee-honey-cough-review
 # ブラウザで index.html を開く
 ```
 
-### GitHub Pages（オプション）
-設定 → Pages → Source を「Deploy from a branch」に設定し、mainブランチを選択することで、GitHubページとして公開可能です。
-
-## ⚠️ 免責事項
-
-- 本レビューは**研究・教育目的**のみに使用してください
-- 医療行為や自己治療の根拠として使用しないでください
-- 実際の症状については必ず**医療従事者に相談**してください
-- 特に以下の方は使用前に医師に相談してください：
-  - 12ヶ月未満の乳児（はちみつ禁忌）
-  - カフェイン感受性の方
-  - 糖尿病患者
-  - アレルギー体質の方
-  - 他の薬剤を服用中の方
-
-## 🤝 コントリビューション
-
-このプロジェクトは実験的な性質を持つため、以下の形でのコントリビューションを歓迎します：
-
-- **事実確認**: 引用された研究の内容確認
-- **追加研究**: 関連する最新の研究情報の提供
-- **技術改善**: HTML/CSSの改善提案
-- **アクセシビリティ**: より多くの人が利用できるような改善
-
-### Issues
-以下の内容でIssueを作成してください：
-- 内容の誤りや不正確な情報の指摘
-- 追加すべき研究や情報の提案
-- 技術的な改善提案
-- アクセシビリティの問題
-
 ## 📚 参考文献
 
 1. Raeessi MA, et al. Honey plus coffee versus systemic steroid in the treatment of persistent post-infectious cough: a randomised controlled trial. Primary Care Respiratory Journal. 2013;22(3):325-330.
