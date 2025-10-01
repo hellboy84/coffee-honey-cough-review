@@ -83,9 +83,9 @@ cd coffee-honey-cough-review
 
 3. Abuelgasim H, et al. Effectiveness of honey for symptomatic relief in upper respiratory tract infections: a systematic review and meta-analysis. BMJ Evidence-Based Medicine. 2021;26(2):57-64.
 
-## 📝 ライセンス
+## 📝 注意事項
 
-このプロジェクトは研究目的で作成されており、レビューの内容の学術的・医療情報としての正確さは保証されていません。
+このプロジェクトは実験のために作成したもので、レビューの内容の学術的・医療情報としての正確さを保証するものではありません。
 ---
 
 **作成日**: 2025年7月30日  
